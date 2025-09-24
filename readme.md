@@ -110,5 +110,3 @@ The script does the following:
 5. Provides `/` endpoint for the UI and `/video_feed` endpoint for direct MJPEG stream.
 
 ---
-
-Do you want me to also write a **`index.html` template** (Bootstrap styled, responsive) so that it directly shows the feed nicely in browser?
